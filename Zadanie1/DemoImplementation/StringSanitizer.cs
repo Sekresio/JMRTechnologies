@@ -7,7 +7,7 @@ namespace Zadanie1.DemoImplementation
     {
         public static string SanitizeString(string toSanitize)
         {
-            var sanitizedString = Regex.Replace(toSanitize, "[^a-zA-Z0-9_.]+", "", RegexOptions.Compiled);
+            var sanitizedString = Regex.Replace(toSanitize, "[^a-zA-Z0-9_.]+", "", RegexOptions.None);
 
             return sanitizedString;
         }

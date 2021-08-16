@@ -11,9 +11,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Zadanie3", "Zadanie3\Zadani
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Zadanie3.Tests", "Zadanie3.Tests\Zadanie3.Tests.csproj", "{BDD7D49C-A34C-4BD9-AE67-BD01A55C042F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Zadanie2", "Zadanie2\Zadanie2.csproj", "{D7DC624A-6EE4-4C5D-91BE-DFC045491D1E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Zadanie2", "Zadanie2\Zadanie2.csproj", "{D7DC624A-6EE4-4C5D-91BE-DFC045491D1E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Zadanie2.Tests", "Zadanie2.Tests\Zadanie2.Tests.csproj", "{18F8E63F-1D85-49E0-9F78-CF725AD7377A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Zadanie2.Tests", "Zadanie2.Tests\Zadanie2.Tests.csproj", "{18F8E63F-1D85-49E0-9F78-CF725AD7377A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
